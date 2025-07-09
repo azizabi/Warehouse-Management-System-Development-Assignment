@@ -12,6 +12,26 @@ This project is a Minimum Viable Product (MVP) for a **Warehouse Management Syst
 * **AI Tools:** ChatGPT (prompt engineering, code generation assistance)
 
 ---
+🧠 Why Streamlit for This Project?
+While I primarily applied for a Full Stack Developer (MERN) role, this assignment leaned heavily into data processing, transformation, and visualization. Here's why I chose to implement it using Streamlit:
+
+⚙️ Streamlit vs React — Purpose Matters
+Feature	✅ Streamlit	🔄 React + Express
+Built For	Rapid data apps and internal tools	Complex UI apps and user-facing experiences
+Language	Python	JavaScript (React) + Backend (Node/Express)
+File Uploads, CSV Handling	Native support	Requires manual file handling logic
+Data Visualization	Built-in support with Altair, Plotly, etc.	Needs Chart.js, Recharts, etc.
+Time to MVP	Extremely fast	Slower, needs separate API and frontend setup
+Backend Integration	Direct Python functions and scripts	Requires API layer and state management
+
+🧩 Why Streamlit was the Best Fit:
+The project focused on data cleaning, SKU–MSKU mapping, and interactive dashboards.
+
+I could directly use Python libraries like pandas, altair, and requests for fast development.
+
+It saved time and let me focus more on the core problem-solving, rather than setting up boilerplate frontend/backend code.
+
+✅ Although this was my first time working on a Data Analytics–focused project, I ensured that my solution was clean, modular, and user-friendly — showcasing my problem-solving ability and tech adaptability.
 
 ## 📂 Project Structure
 
