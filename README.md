@@ -101,7 +101,6 @@ TABLE_ID = 601212
 * **Name:** Abinesh
 * **Assignment:** WMS Development MVP
 * **GitHub:** [https://github.com/azizabi/Warehouse-Management-System-Development-Assignment](https://github.com/azizabi/Warehouse-Management-System-Development-Assignment)
-* **Loom Demo:** [Watch Here](https://www.loom.com/share/your-demo-link-here)
 
 ---
 
